@@ -1,0 +1,13 @@
+- [ ] - Install Alacritty and Themes
+- [ ] - Add neofetch
+- [ ] - Add Blur
+- [ ] - Create my techstack
+- [ ] - Create my Github Readme
+- [ ] - Install OBS and Themes
+- [ ] - Implements Git Alias
+- [ ] - Install ZSH and Themes
+- [ ] - Install VSCode and Themes
+- [ ] - Install Docker
+- [ ] - Install NodeJS
+- [ ] - Install Yarn
+- [ ] - Install NVM

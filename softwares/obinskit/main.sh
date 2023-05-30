@@ -5,7 +5,5 @@ software_obinskit(){
   then
     echo "Attempting to install Obinskit..."
     paru -S obinskit
-  else
-    echo "Obinskit is already installed"
   fi
 }

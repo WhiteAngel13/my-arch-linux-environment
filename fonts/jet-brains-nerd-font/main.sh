@@ -12,7 +12,5 @@ jet_brains_nerd_font(){
     sudo rm -f "$LOCAL_FONTS_DIR/LICENSE"
     sudo rm -f "$LOCAL_FONTS_DIR/readme.md"
     fc-cache -fv
-  else
-    echo "JetBrains Mono Nerd Font is already installed"
   fi  
 }

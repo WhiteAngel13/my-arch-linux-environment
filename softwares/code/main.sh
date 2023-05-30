@@ -5,7 +5,5 @@ software_code(){
   then
     echo "Attempting to install Code..."
     paru -S visual-studio-code-bin
-  else
-    echo "Code is already installed"
   fi
 }

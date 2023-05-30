@@ -5,7 +5,5 @@ base_dependencies_git () {
   then
     echo "Attempting to install Git"
     sudo pacman -S git
-  else
-    echo "Git is already installed"
   fi
 }

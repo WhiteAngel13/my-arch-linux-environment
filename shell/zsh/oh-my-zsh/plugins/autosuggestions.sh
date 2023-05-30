@@ -5,7 +5,5 @@ shell_zsh_oh_my_zsh_plugins_autosuggestions(){
   then
     echo "Attempting to install Zsh Autosuggestions..."
     git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
-  else
-    echo "Zsh Autosuggestions is already installed"
   fi
 }

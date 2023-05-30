@@ -6,7 +6,5 @@ shell_zsh_install(){
     echo "Attempting to install Zsh..."
     paru -S zsh
     chsh -s $(which zsh)
-  else
-    echo "Zsh is already installed"
   fi
 }

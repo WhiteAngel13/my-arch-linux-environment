@@ -14,7 +14,5 @@ base_dependencies_paru () {
       makepkg -si
     )
     rm -rf "$paru_dir"
-  else
-    echo "Paru is already installed"
   fi
 }

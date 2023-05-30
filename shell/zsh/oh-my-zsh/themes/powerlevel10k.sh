@@ -8,7 +8,5 @@ shell_zsh_oh_my_zsh_themes_power_level_10k(){
 
     # Change ZSH_THEME to powerlevel10k/powerlevel10k in ~/.zshrc
     sed -i 's/ZSH_THEME=".*"/ZSH_THEME="powerlevel10k\/powerlevel10k"/g' ~/.zshrc
-  else
-    echo "Powerlevel10k is already installed"
   fi
 }

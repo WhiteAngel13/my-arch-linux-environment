@@ -5,7 +5,5 @@ tools_gh(){
   then
     echo "Attempting to install Github CLI..."
     paru -S github-cli
-  else
-    echo "Github CLI is already installed"
   fi
 }

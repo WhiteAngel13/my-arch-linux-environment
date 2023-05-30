@@ -5,7 +5,5 @@ create_fonts_directory(){
   then
     echo "Creating fonts directory..."
     mkdir -p "$LOCAL_FONTS_DIR"
-  else
-    echo "Fonts directory already exists"
   fi
 }

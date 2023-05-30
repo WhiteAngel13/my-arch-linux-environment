@@ -8,7 +8,5 @@ base_dependencies_bluetooth () {
     paru -S bluez-utils
     systemctl enable bluetooth.service
     systemctl start bluetooth.service
-  else
-    echo "Bluez is already installed"
   fi
 }
