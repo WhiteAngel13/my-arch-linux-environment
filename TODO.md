@@ -1,7 +1,3 @@
-- [x] Add DBeaber
-- [x] Add Discord
-- [x] Add Chrome
-- [x] Add Helvum
 - [ ] Add neofetch
 - [ ] Add Blur
 - [ ] Install OBS and Themes
