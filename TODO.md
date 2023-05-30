@@ -7,6 +7,9 @@
 - [ ] - Implements Git Alias
 - [ ] - Install ZSH and Themes
 - [ ] - Install VSCode and Themes
+- [ ] - Find some way to install all my extensions
+- [ ] - Find some way to add blur on my shell
+- [ ] - Add some keybindings to my shell
 - [ ] - Install Docker
 - [ ] - Install NodeJS
 - [ ] - Install Yarn
