@@ -6,6 +6,7 @@ source "${BASE_DIR}/softwares/dbeaver/main.sh"
 source "${BASE_DIR}/softwares/discord/main.sh"
 source "${BASE_DIR}/softwares/hamachi/main.sh"
 source "${BASE_DIR}/softwares/helvum/main.sh"
+source "${BASE_DIR}/softwares/obs-studio/main.sh"
 
 softwares(){
   software_code
@@ -16,4 +17,5 @@ softwares(){
   software_discord
   software_hamachi
   software_helvum
+  software_obs_studio
 }
